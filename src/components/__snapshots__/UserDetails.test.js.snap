@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserDetails Check handleDelete 1`] = `ShallowWrapper {}`;
+
+exports[`UserDetails Check handleEdit 1`] = `ShallowWrapper {}`;
+
+exports[`UserDetails Check handleUpdate 1`] = `ShallowWrapper {}`;
+
+exports[`UserDetails Check modal onClose event 1`] = `ShallowWrapper {}`;
+
+exports[`UserDetails Check onChange for city 1`] = `ShallowWrapper {}`;
+
+exports[`UserDetails Check onChange for email 1`] = `ShallowWrapper {}`;
+
+exports[`UserDetails Check onChange for name 1`] = `ShallowWrapper {}`;
+
+exports[`UserDetails Check onChange for street 1`] = `ShallowWrapper {}`;
+
+exports[`UserDetails Check onChange for username 1`] = `ShallowWrapper {}`;
+
+exports[`UserDetails Check onChange for zipcode 1`] = `ShallowWrapper {}`;
+
+exports[`UserDetails Component Render 1`] = `ShallowWrapper {}`;
